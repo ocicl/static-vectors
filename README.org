@@ -1,0 +1,9 @@
+* static-vectors
+
+Allocate SIMPLE-ARRAYs in static memory
+
+|---------+----------------------------------------------------|
+| source  | git:https://github.com/sionescu/static-vectors.git |
+| commit  | 87a447a                                            |
+| systems | static-vectors                                     |
+|---------+----------------------------------------------------|
