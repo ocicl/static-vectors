@@ -4,6 +4,6 @@ Allocate SIMPLE-ARRAYs in static memory
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/sionescu/static-vectors.git |
-| commit  | 95f3497                                            |
+| commit  | 566fd7e                                            |
 | systems | static-vectors                                     |
 |---------+----------------------------------------------------|
